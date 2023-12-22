@@ -3,5 +3,5 @@ Hola,
 
 Estamos empezando otra vez con GIT espero que el 2024 sea un año de cambios buenos.
 
-
+Empecemos probado los git add y git commit para entender un poco mas GIT.
 saludos.
