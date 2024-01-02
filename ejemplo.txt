@@ -5,3 +5,6 @@ Estamos empezando otra vez con GIT espero que el 2024 sea un año de cambios bue
 
 Empecemos probado los git add y git commit para entender un poco mas GIT.
 saludos.
+
+
+Hola este es un cambio de una nueva computadora del 02-01-2024
