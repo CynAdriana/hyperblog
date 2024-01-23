@@ -32,3 +32,8 @@ body{
     width: 20px;
     vertical-align: middle;
 }
+#footer{
+    background: plum;
+    text-align: center;
+    padding: 4px;
+}
